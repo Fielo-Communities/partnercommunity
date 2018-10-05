@@ -1,4 +1,18 @@
 {
+    "HCC_18_1_2_themeLayout_Login.flexipage": {
+        "createdById": "0050b0000032fMTAAY",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:14:34.000Z",
+        "fileName": "unpackaged/flexipages/HCC_18_1_2_themeLayout_Login.flexipage",
+        "fullName": "HCC_18_1_2_themeLayout_Login",
+        "id": "0M00b000000gdYYCAY",
+        "lastModifiedById": "0050b0000032fMTAAY",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:14:34.000Z",
+        "manageableState": "unmanaged",
+        "type": "FlexiPage",
+        "mmState": "clean"
+    },
     "HCC_18_1_2.communityThemeDefinition": {
         "createdById": "0050b0000032fMTAAY",
         "createdByName": "Eric Salama",
