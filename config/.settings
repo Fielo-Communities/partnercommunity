@@ -1,13 +1,15 @@
 {
-    "projectName": "partnercommunity",
-    "username": "ericps@fielohpp.com",
-    "id": "76b83800-c8f4-11e8-8c5c-e95f7a5768b3",
+    "projectName": "customercommunity",
+    "username": "ericps@fielohcp.com",
+    "id": "fc62ff60-c8f1-11e8-8c5c-e95f7a5768b3",
     "namespace": "",
     "orgType": "developer",
     "loginUrl": "https://login.salesforce.com/",
-    "instanceUrl": "https://na49.salesforce.com",
+    "instanceUrl": "https://na57.salesforce.com",
     "workspace": "C:\\Users\\admin\\Documents",
     "subscription": [
-        "CommunityTemplateDefinition"
+        "BrandingSet",
+        "CommunityTemplateDefinition",
+        "CommunityThemeDefinition"
     ]
 }
