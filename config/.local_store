@@ -1,0 +1,30 @@
+{
+    "HPC_18_1_2.communityThemeDefinition": {
+        "createdById": "0055A000008bMjfQAE",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:50:36.000Z",
+        "fileName": "unpackaged/communityThemeDefinitions/HPC_18_1_2.communityThemeDefinition",
+        "fullName": "HPC_18_1_2",
+        "id": "05l5A000000L4CtQAK",
+        "lastModifiedById": "0055A000008bMjfQAE",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:50:36.000Z",
+        "manageableState": "unmanaged",
+        "type": "CommunityThemeDefinition",
+        "mmState": "clean"
+    },
+    "HPC_18_1_2.communityTemplateDefinition": {
+        "createdById": "0055A000008bMjfQAE",
+        "createdByName": "Eric Salama",
+        "createdDate": "2018-10-05T18:50:36.000Z",
+        "fileName": "unpackaged/communityTemplateDefinitions/HPC_18_1_2.communityTemplateDefinition",
+        "fullName": "HPC_18_1_2",
+        "id": "05j5A000000KyqgQAC",
+        "lastModifiedById": "0055A000008bMjfQAE",
+        "lastModifiedByName": "Eric Salama",
+        "lastModifiedDate": "2018-10-05T18:50:36.000Z",
+        "manageableState": "unmanaged",
+        "type": "CommunityTemplateDefinition",
+        "mmState": "clean"
+    }
+}
