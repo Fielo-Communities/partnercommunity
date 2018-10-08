@@ -71,5 +71,9 @@
         <members>HPC_18_1_2_themeLayout_Login</members>
         <name>FlexiPage</name>
     </types>
+	<types>
+        <members>siteAsset_41582f628a2a4dc489dc2faab4b470b2</members>
+        <name>StaticResource</name>
+    </types>
     <version>43.0</version>
 </Package>
