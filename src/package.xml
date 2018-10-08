@@ -75,5 +75,9 @@
         <members>siteAsset_41582f628a2a4dc489dc2faab4b470b2</members>
         <name>StaticResource</name>
     </types>
+	<types>
+        <members>Fielo Community</members>
+        <name>Profile</name>
+    </types>
     <version>43.0</version>
 </Package>
