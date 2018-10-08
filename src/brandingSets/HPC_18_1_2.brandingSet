@@ -10,11 +10,11 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>DetailTextColor</propertyName>
-        <propertyValue>rgba(255, 255, 255, 0.6)</propertyValue>
+        <propertyValue>rgba(0, 0, 0, 0.6)</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>HeaderFonts</propertyName>
-        <propertyValue>Montserrat</propertyValue>
+        <propertyValue>Salesforce Sans</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>CardBackgroundColor</propertyName>
@@ -30,15 +30,15 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>CompanyLogo</propertyName>
-        <propertyValue>/file-asset/Fielo_logo?v=1</propertyValue>
+        <propertyValue>/file-asset/XMLID_1?v=1&amp;height=300&amp;width=300</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>_ActionColorTrans</propertyName>
-        <propertyValue>rgba(39, 179, 232, 0.9)</propertyValue>
+        <propertyValue>rgba(10, 50, 198, 0.9)</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LoginBackgroundImage</propertyName>
-        <propertyValue>/file-asset/HorizontalBG2x?v=1</propertyValue>
+        <propertyValue>/file-asset/BG?v=1</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PageBackgroundColor</propertyName>
@@ -46,15 +46,15 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>_LinkColorDarker</propertyName>
-        <propertyValue>#169dd0</propertyValue>
+        <propertyValue>#000000</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>_ActionColorDarker</propertyName>
-        <propertyValue>#1596c7</propertyValue>
+        <propertyValue>#082695</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>_HoverColor</propertyName>
-        <propertyValue>rgba(39, 179, 232, 0.05)</propertyValue>
+        <propertyValue>rgba(10, 50, 198, 0.05)</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>ErrorFontColor</propertyName>
@@ -70,12 +70,12 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PrimaryFont</propertyName>
-        <propertyValue>Lato</propertyValue>
+        <propertyValue>Salesforce Sans</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LinkColor</propertyName>
         <propertyValue>rgb(39, 179, 232)</propertyValue>
     </brandingSetProperty>
-    <masterLabel>Horizontal_Partner_Community</masterLabel>
+    <masterLabel>HPC_18_1_2</masterLabel>
     <type>jepson:branding-jepson</type>
 </BrandingSet>
