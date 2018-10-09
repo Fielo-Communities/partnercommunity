@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
+        <types>
         <members>HPC_18_1_2</members>
         <name>BrandingSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Community</name>
     </types>
     <types>
         <members>HPC_18_1_2</members>
@@ -11,6 +15,10 @@
     <types>
         <members>HPC_18_1_2</members>
         <name>CommunityThemeDefinition</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ContentAsset</name>
     </types>
     <types>
         <members>HPC_18_1_2_Account_Management</members>
@@ -71,7 +79,7 @@
         <members>HPC_18_1_2_themeLayout_Login</members>
         <name>FlexiPage</name>
     </types>
-	<types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
