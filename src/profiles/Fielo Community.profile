@@ -78,22 +78,4 @@
         <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
-	<objectPermissions>
-	  <object>FieloPLT__Agreement__c</object>
-	  <editable>false</editable>
-	  <hidden>false</hidden>
-	  <readable>true</readable>
-	</objectPermissions>
-	<objectPermissions>
-	  <object>FieloPLT__Badge__c</object>
-	  <editable>false</editable>
-	  <hidden>false</hidden>
-	  <readable>true</readable>
-	</objectPermissions>
-	<objectPermissions>
-	  <object>FieloPLT__BadgeMember__c</object>
-	  <editable>false</editable>
-	  <hidden>false</hidden>
-	  <readable>true</readable>
-	</objectPermissions>
 </Profile>
