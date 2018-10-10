@@ -78,4 +78,22 @@
         <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
+	<fieldPermissions>
+	  <field>Agreements</field>
+	  <editable>false</editable>
+	  <hidden>false</hidden>
+	  <readable>true</readable>
+	</fieldPermissions>
+	<fieldPermissions>
+	  <field>Badges</field>
+	  <editable>false</editable>
+	  <hidden>false</hidden>
+	  <readable>true</readable>
+	</fieldPermissions>
+	<fieldPermissions>
+	  <field>Badges Members	</field>
+	  <editable>false</editable>
+	  <hidden>false</hidden>
+	  <readable>true</readable>
+	</fieldPermissions>
 </Profile>
