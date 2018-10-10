@@ -79,19 +79,19 @@
         <name>WorkDotComUserPerm</name>
     </userPermissions>
 	<fieldPermissions>
-	  <field>Agreements</field>
+	  <field>FieloPLT__Agreement__c</field>
 	  <editable>false</editable>
 	  <hidden>false</hidden>
 	  <readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-	  <field>Badges</field>
+	  <field>FieloPLT__Badge__c</field>
 	  <editable>false</editable>
 	  <hidden>false</hidden>
 	  <readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-	  <field>Badges Members	</field>
+	  <field>FieloPLT__BadgeMember__c</field>
 	  <editable>false</editable>
 	  <hidden>false</hidden>
 	  <readable>true</readable>
