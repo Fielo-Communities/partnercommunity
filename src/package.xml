@@ -21,6 +21,10 @@
         <name>ContentAsset</name>
     </types>
     <types>
+        <members>FieloPLT__Member__c.FieloPLT__Email__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>HPC_18_1_2_Account_Management</members>
         <members>HPC_18_1_2_Campaign_Detail</members>
         <members>HPC_18_1_2_Campaign_List</members>
