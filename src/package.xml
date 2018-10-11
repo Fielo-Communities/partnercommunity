@@ -77,7 +77,11 @@
         <members>Fielo_Partner_Community_1_2_themeLayout_Default</members>
         <members>Fielo_Partner_Community_1_2_themeLayout_Home</members>
         <members>Fielo_Partner_Community_1_2_themeLayout_Login</members>
-        <name>FlexiPage</name>
+		<name>FlexiPage</name>
+    </types>
+	<types>
+        <members>FieloPLT__Member__c.FieloPLT__Email__c</members>
+        <name>CustomField</name>
     </types>
     <types>
         <members>*</members>
