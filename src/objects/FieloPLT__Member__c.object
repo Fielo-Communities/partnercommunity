@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableEnhancedLookup>false</enableEnhancedLookup>
+    <fields>
+        <fullName>FieloPLT__Email__c</fullName>
+        <deprecated>false</deprecated>
+        <description>Member&apos;s email address</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Enter Member&apos;s email.</inlineHelpText>
+        <label>E-Mail</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+</CustomObject>
