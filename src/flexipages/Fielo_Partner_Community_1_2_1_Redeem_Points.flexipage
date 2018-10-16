@@ -8,21 +8,6 @@
             </componentInstanceProperties>
             <componentName>forceCommunity:richTextInline</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>fields</name>
-                <value>FieloPLT__Points__c</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>hideSelector</name>
-                <value>true</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>subfield</name>
-                <value>FieloPLT__CurrentLevelMember__r.FieloPLT__Level__r.Name</value>
-            </componentInstanceProperties>
-            <componentName>FieloPLT:MemberSelector</componentName>
-        </componentInstances>
         <name>header</name>
         <type>Region</type>
     </flexiPageRegions>
@@ -44,14 +29,14 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>External Rewards</value>
+                <value>Redeem Points</value>
             </componentInstanceProperties>
             <componentName>forceCommunity:seoAssistant</componentName>
         </componentInstances>
         <name>sfdcHiddenRegion</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>External Rewards</masterLabel>
+    <masterLabel>Redeem Points</masterLabel>
     <template>
         <name>siteforce:sldsOneColLayout</name>
     </template>

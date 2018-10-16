@@ -436,7 +436,7 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>ctaBtnOneTextColor</name>
-                <value>#FFFFFF</value>
+                <value>rgb(255, 255, 255)</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>ctaBtnOneTextHoverColor</name>
