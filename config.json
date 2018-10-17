@@ -3,10 +3,6 @@
 	"version":"master",
 	"dependencies":
 	[
-		{
-			"type":"package",
-			"version":"2.56.6",
-			"name":"FieloPLT"
-		}				
+			
 	]
 }
