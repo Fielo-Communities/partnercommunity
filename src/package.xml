@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>Fielo_Partner_Community_1_2_1</members>
+     <types>
+        <members>Fielo_Partner_Community_1_2_2</members>
         <name>BrandingSet</name>
     </types>
     <types>
@@ -9,11 +9,11 @@
         <name>Community</name>
     </types>
     <types>
-        <members>Fielo_Partner_Community_1_2_1</members>
+        <members>Fielo_Partner_Community_1_2_2</members>
         <name>CommunityTemplateDefinition</name>
     </types>
     <types>
-        <members>Fielo_Partner_Community_1_2_1</members>
+        <members>Fielo_Partner_Community_1_2_2</members>
         <name>CommunityThemeDefinition</name>
     </types>
     <types>
@@ -21,60 +21,60 @@
         <name>ContentAsset</name>
     </types>
     <types>
-        <members>Fielo_Partner_Community_1_2_1_Account_Management</members>
-        <members>Fielo_Partner_Community_1_2_1_Campaign_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Campaign_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Campaign_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Canvasapp_Page</members>
-        <members>Fielo_Partner_Community_1_2_1_Case_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Case_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Case_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Check_Password</members>
-        <members>Fielo_Partner_Community_1_2_1_Contact_Support</members>
-        <members>Fielo_Partner_Community_1_2_1_Create_Record</members>
-        <members>Fielo_Partner_Community_1_2_1_Dashboard_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Dashboard_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Dashboard_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Error</members>
-        <members>Fielo_Partner_Community_1_2_1_External_Rewards</members>
-        <members>Fielo_Partner_Community_1_2_1_Feed_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_File_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_File_List</members>
-        <members>Fielo_Partner_Community_1_2_1_File_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Forgot_Password</members>
-        <members>Fielo_Partner_Community_1_2_1_Group_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Group_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Group_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Home</members>
-        <members>Fielo_Partner_Community_1_2_1_Incentives</members>
-        <members>Fielo_Partner_Community_1_2_1_Login</members>
-        <members>Fielo_Partner_Community_1_2_1_Login_Error</members>
-        <members>Fielo_Partner_Community_1_2_1_MDF_and_Coop</members>
-        <members>Fielo_Partner_Community_1_2_1_Messages</members>
-        <members>Fielo_Partner_Community_1_2_1_Question_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Record_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Record_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Redeem_Points</members>
-        <members>Fielo_Partner_Community_1_2_1_Register</members>
-        <members>Fielo_Partner_Community_1_2_1_Related_Record_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Report_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Report_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Report_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Resources</members>
-        <members>Fielo_Partner_Community_1_2_1_Search</members>
-        <members>Fielo_Partner_Community_1_2_1_Sfdc_Page</members>
-        <members>Fielo_Partner_Community_1_2_1_Stream_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_Stream_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Stream_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_Topic_Catalog</members>
-        <members>Fielo_Partner_Community_1_2_1_Topic_Detail</members>
-        <members>Fielo_Partner_Community_1_2_1_User_List</members>
-        <members>Fielo_Partner_Community_1_2_1_User_Profile</members>
-        <members>Fielo_Partner_Community_1_2_1_User_Related_List</members>
-        <members>Fielo_Partner_Community_1_2_1_User_Settings</members>
-        <members>Fielo_Partner_Community_1_2_1_themeLayout_Default</members>
-        <members>Fielo_Partner_Community_1_2_1_themeLayout_Home</members>
-        <members>Fielo_Partner_Community_1_2_1_themeLayout_Login</members>
+        <members>Fielo_Partner_Community_1_2_2_Account_Management</members>
+        <members>Fielo_Partner_Community_1_2_2_Campaign_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Campaign_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Campaign_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Canvasapp_Page</members>
+        <members>Fielo_Partner_Community_1_2_2_Case_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Case_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Case_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Check_Password</members>
+        <members>Fielo_Partner_Community_1_2_2_Contact_Support</members>
+        <members>Fielo_Partner_Community_1_2_2_Create_Record</members>
+        <members>Fielo_Partner_Community_1_2_2_Dashboard_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Dashboard_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Dashboard_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Error</members>
+        <members>Fielo_Partner_Community_1_2_2_External_Rewards</members>
+        <members>Fielo_Partner_Community_1_2_2_Feed_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_File_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_File_List</members>
+        <members>Fielo_Partner_Community_1_2_2_File_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Forgot_Password</members>
+        <members>Fielo_Partner_Community_1_2_2_Group_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Group_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Group_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Home</members>
+        <members>Fielo_Partner_Community_1_2_2_Incentives</members>
+        <members>Fielo_Partner_Community_1_2_2_Login</members>
+        <members>Fielo_Partner_Community_1_2_2_Login_Error</members>
+        <members>Fielo_Partner_Community_1_2_2_MDF_and_Coop</members>
+        <members>Fielo_Partner_Community_1_2_2_Messages</members>
+        <members>Fielo_Partner_Community_1_2_2_Question_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Record_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Record_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Redeem_Points</members>
+        <members>Fielo_Partner_Community_1_2_2_Register</members>
+        <members>Fielo_Partner_Community_1_2_2_Related_Record_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Report_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Report_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Report_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Resources</members>
+        <members>Fielo_Partner_Community_1_2_2_Search</members>
+        <members>Fielo_Partner_Community_1_2_2_Sfdc_Page</members>
+        <members>Fielo_Partner_Community_1_2_2_Stream_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_Stream_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Stream_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_Topic_Catalog</members>
+        <members>Fielo_Partner_Community_1_2_2_Topic_Detail</members>
+        <members>Fielo_Partner_Community_1_2_2_User_List</members>
+        <members>Fielo_Partner_Community_1_2_2_User_Profile</members>
+        <members>Fielo_Partner_Community_1_2_2_User_Related_List</members>
+        <members>Fielo_Partner_Community_1_2_2_User_Settings</members>
+        <members>Fielo_Partner_Community_1_2_2_themeLayout_Default</members>
+        <members>Fielo_Partner_Community_1_2_2_themeLayout_Home</members>
+        <members>Fielo_Partner_Community_1_2_2_themeLayout_Login</members>
         <name>FlexiPage</name>
     </types>
     <types>
