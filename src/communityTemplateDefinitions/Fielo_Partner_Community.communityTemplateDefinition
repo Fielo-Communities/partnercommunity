@@ -14,9 +14,9 @@
         <type>Highlight</type>
     </bundlesInfo>
     <bundlesInfo>
-        <image>siteAsset_67e99bfda9ee4aba8e9359d17a9f9b38</image>
+        <image>siteAsset_b72f263b055c41ab90633357e8fb67c8</image>
         <order>1</order>
-        <title>siteAsset_67e99bfda9ee4aba8e9359d17a9f9b38</title>
+        <title>siteAsset_b72f263b055c41ab90633357e8fb67c8</title>
         <type>PreviewImage</type>
     </bundlesInfo>
     <category>Sales</category>
@@ -29,14 +29,14 @@
             <label>Incentives</label>
             <position>1</position>
             <publiclyAvailable>false</publiclyAvailable>
-            <target>/campaign/Campaign/Recent</target>
+            <target>/incentives</target>
             <type>InternalLink</type>
         </navigationMenuItem>
         <navigationMenuItem>
             <label>Rewards</label>
             <position>2</position>
             <publiclyAvailable>false</publiclyAvailable>
-            <target>/mdf</target>
+            <target>/reward</target>
             <type>InternalLink</type>
         </navigationMenuItem>
         <navigationMenuItem>

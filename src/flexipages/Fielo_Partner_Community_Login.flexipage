@@ -2,58 +2,37 @@
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
     <flexiPageRegions>
         <componentInstances>
-            <componentName>salesforceIdentity:communityLogo2</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentInstanceProperties>
-                <name>forgotPasswordLabel</name>
-                <value>Forgot your password?</value>
+                <name>fields</name>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>forgotPasswordUrl</name>
-                <value>/ForgotPassword</value>
+                <name>includePasswordField</name>
+                <value>false</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>loginButtonLabel</name>
-                <value>Log in</value>
+                <name>program</name>
+                <value>Please create a Program in order to use this component</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>passwordLabel</name>
-                <value>Password</value>
+                <name>regConfirmUrl</name>
+                <value>./CheckPasswordResetEmail</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>selfRegisterLabel</name>
-                <value>Not a member?</value>
-            </componentInstanceProperties>
-            <componentInstanceProperties>
-                <name>selfRegisterUrl</name>
-                <value>/SelfRegister</value>
+                <name>showLogin</name>
+                <value>true</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>startUrl</name>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>usernameLabel</name>
-                <value>Username</value>
-            </componentInstanceProperties>
-            <componentName>salesforceIdentity:loginForm2</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>headerText</name>
+                <name>titleValueLogin</name>
+                <value>Already a member?</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>showHeader</name>
-                <value>false</value>
+                <name>titleValueRegistration</name>
+                <value>Join now</value>
             </componentInstanceProperties>
-            <componentName>salesforceIdentity:socialLogin2</componentName>
-        </componentInstances>
-        <componentInstances>
-            <componentInstanceProperties>
-                <name>employeeLoginLinkLabel</name>
-                <value>Are you an employee? Login here</value>
-            </componentInstanceProperties>
-            <componentName>salesforceIdentity:employeeLoginLink2</componentName>
+            <componentName>FieloPLT:CommunityRegistration</componentName>
         </componentInstances>
         <name>content</name>
         <type>Region</type>

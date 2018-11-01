@@ -544,6 +544,21 @@
             </componentInstanceProperties>
             <componentName>forceCommunity:themeHeroStarter</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>fields</name>
+                <value>FieloPLT__Points__c</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>hideSelector</name>
+                <value>false</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>subfield</name>
+                <value>FieloPLT__CurrentLevelMember__r.FieloPLT__Level__r.Name</value>
+            </componentInstanceProperties>
+            <componentName>FieloPLT:MemberSelector</componentName>
+        </componentInstances>
         <name>themeHero</name>
         <type>Region</type>
     </flexiPageRegions>
