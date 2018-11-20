@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityThemeDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Get started with a partner portal that includes Fielo incentivization and loyalty.</description>
+    <enableExtendedCleanUpOnDelete>true</enableExtendedCleanUpOnDelete>
+    <masterLabel>Fielo Partner Community Theme</masterLabel>
+    <themeSetting>
+        <themeLayout>Fielo_Partner_Community_Theme_themeLayout_Login</themeLayout>
+        <themeLayoutType>Login</themeLayoutType>
+    </themeSetting>
+    <themeSetting>
+        <themeLayout>Fielo_Partner_Community_Theme_themeLayout_Home</themeLayout>
+        <themeLayoutType>Home</themeLayoutType>
+    </themeSetting>
+    <themeSetting>
+        <themeLayout>Fielo_Partner_Community_Theme_themeLayout_Default</themeLayout>
+        <themeLayoutType>Inner</themeLayoutType>
+    </themeSetting>
+</CommunityThemeDefinition>
