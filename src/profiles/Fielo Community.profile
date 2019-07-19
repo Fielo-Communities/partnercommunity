@@ -594,6 +594,84 @@
         <readable>true</readable>
     </fieldPermissions>
 	
+	<!-- Point Types -->
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__ConversionModeField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__ConversionValueField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__PointReflectionField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__MonthsUntilExpirationField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__RecordFieldNameField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__MemberBalanceField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>true</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__DecimalsNumber__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__PointExpirationDateField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__PointExpirationModeField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__RedemptionBalanceField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__RedemptionItemBalanceField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__TransactionBalanceField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	<fieldPermissions>
+        <editable>false</editable>
+        <field>FieloPLT__PointType__c.FieloPLT__TransactionExpirationDateField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+	
+	
 	<!-- Points -->
 	<fieldPermissions>
         <editable>false</editable>
@@ -743,7 +821,7 @@
         <editable>false</editable>
         <field>FieloPLT__ProgramConsent__c.FieloPLT__Program__c</field>
         <readable>true</readable>
-    </fieldPermissions>
+    </fieldPermissions>	
 	
 	<!-- Promotion -->
 	<fieldPermissions>
@@ -1307,6 +1385,14 @@
 		<allowDelete>false</allowDelete>
 		<allowEdit>false</allowEdit>
 		<allowRead>true</allowRead>
+		<object>FieloPLT__PointType__c</object>
+	</objectPermissions>
+	
+	<objectPermissions>
+		<allowCreate>false</allowCreate>
+		<allowDelete>false</allowDelete>
+		<allowEdit>false</allowEdit>
+		<allowRead>true</allowRead>
 		<object>FieloPLT__Program__c</object>
 	</objectPermissions>
 	
@@ -1316,6 +1402,13 @@
 		<allowEdit>false</allowEdit>
 		<allowRead>true</allowRead>
 		<object>FieloPLT__ProgramConsent__c</object>
+	</objectPermissions>	
+	<objectPermissions>
+		<allowCreate>false</allowCreate>
+		<allowDelete>false</allowDelete>
+		<allowEdit>false</allowEdit>
+		<allowRead>true</allowRead>
+		<object>FieloPLT__ProgramPointType__c</object>
 	</objectPermissions>
 	
 	<objectPermissions>
